@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="calculate-array-target" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programming" TARGET_NAME="calculate-array-target" CONFIG_NAME="calculate-array-target">
+    <option name="sourceFile" value="$PROJECT_DIR$/calculate-array-target.cpp" />
+    <option name="toolchainName" value="Default" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

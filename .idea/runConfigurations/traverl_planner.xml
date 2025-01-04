@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="traverl-planner" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" singleton="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="programming" TARGET_NAME="traverl-planner" CONFIG_NAME="traverl-planner">
+    <option name="sourceFile" value="$PROJECT_DIR$/travel-planner.cpp" />
+    <option name="toolchainName" value="Default" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
